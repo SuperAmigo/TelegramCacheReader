@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TelegramCacheReader</string>
+    <string name="permission_text">We need permission to access your files\n and display them to you</string>
+    <string name="permission_request_label">Give permission</string>
+    <string name="no_files">No files</string>
+</resources>
